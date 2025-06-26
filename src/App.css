@@ -3,12 +3,13 @@ body, html, #root {
   padding: 0;
   font-family: sans-serif;
   height: 100%;
-  background: linear-gradient(to top, #F0F0F0, #D1C6A7);
+  background: linear-gradient(to top, #F0F0F0, #D1C6A7) no-repeat;
+ 
 }
 
 .desktop-screen {
-  
-  
+   display: grid;
+  grid-template-columns: 1fr 10fr 1fr;
   height: 100vh;
 }
 .location {
@@ -18,8 +19,8 @@ body, html, #root {
   border-radius: 12px;
   padding: 0.5rem 1rem;
   color: #A68B44;
-  font-weight: 600;
-  font-size: 1rem;
+  font-weight: 500;
+  font-size: .7rem;
   box-shadow: 0 1px 4px rgba(0,0,0,0.04);
 }
 .search {
@@ -91,14 +92,17 @@ body, html, #root {
 }
 
 .mobile-home {
-  display: none;
+  /* display: none; */
   flex-direction: column;
+  height: 100vh;
+   display: grid;
+  grid-template-columns: 1fr 10fr 1fr;
   height: 100vh;
 }
 
 .mobile-header {
   padding: 1rem;
-  background: #f5f5f5;
+  background: transparent;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -115,11 +119,45 @@ body, html, #root {
   padding: 1rem;
   margin-bottom: 1rem;
   border-radius: 8px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.1);
 }
 
 .mobile-nav {
   display: flex;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background: #fff;
+  border-top: 1px solid #ddd;
+  box-shadow: 0 -2px 4px rgba(0,0,0,0.1);
+
   justify-content: space-around;
   padding: 0.75rem;
   background: #eee;
 }
+
+
+@media (max-width: 767.98px) {
+                .card h3 {
+                    font-size: 1.1rem !important;
+                }
+                .banner img {
+                    max-height: 180px !important;
+                }
+            }
+            @media (min-width: 768px) and (max-width: 991.98px) {
+                .card h3 {
+                    font-size: 1.25rem !important;
+                }
+                .banner img {
+                    max-height: 250px !important;
+                }
+            }
+            @media (min-width: 992px) {
+                .card h3 {
+                    font-size: 1.5rem !important;
+                }
+                .banner img {
+                    max-height: 350px !important;
+                }
+            }

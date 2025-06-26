@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Renew Day Spa",
+    "img": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80",
+    "offer": "Flat 10% Off above value of 200",
+    "address": "1208, Spline Arcade, Flat No 102 1st Floor",
+    "rating": 4.5,
+    "distance": "3.5 km",
+    "type": "Unisex",
+    "fav": true
+  },
+  {
+    "name": "Sugar Beauty & Spa",
+    "img": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=400&q=80",
+    "offer": "Flat 10% Off above value of 200",
+    "address": "1208, Spline Arcade, Flat No 102 1st Floor",
+    "rating": 4.5,
+    "distance": "3.5 km",
+    "type": "Unisex",
+    "fav": true
+  },
+  {
+    "name": "Aroma Spa & Wellness",
+    "img": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&w=400&q=80",
+    "offer": "Flat 10% Off above value of 200",
+    "address": "1208, Spline Arcade, Flat No 102 1st Floor",
+    "rating": 4.5,
+    "distance": "3.5 km",
+    "type": "Unisex",
+    "fav": true
+  },
+  {
+    "name": "Bodhi Wellness | Habisgu...",
+    "img": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80",
+    "offer": "Flat 10% Off above value of 200",
+    "address": "1208, Spline Arcade, Flat No 102 1st Floor",
+    "rating": 4.5,
+    "distance": "3.5 km",
+    "type": "Unisex",
+    "fav": false
+  },
+  {
+    "name": "Maya Spa, Kumarakom",
+    "img": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?auto=format&fit=crop&w=400&q=80",
+    "offer": "Flat 10% Off above value of 200",
+    "address": "1208, Spline Arcade, Flat No 102 1st Floor",
+    "rating": 4.5,
+    "distance": "3.5 km",
+    "type": "Unisex",
+    "fav": false
+  },
+  {
+    "name": "Golden Palms Hotels & S...",
+    "img": "https://images.unsplash.com/photo-1465101178521-c1a9136a3b99?auto=format&fit=crop&w=400&q=80",
+    "offer": "Flat 10% Off above value of 200",
+    "address": "1208, Spline Arcade, Flat No 102 1st Floor",
+    "rating": 4.5,
+    "distance": "3.5 km",
+    "type": "Unisex",
+    "fav": false
+  },
+  {
+    "name": "Kairali Ayurvedic Healing...",
+    "img": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=400&q=80",
+    "offer": "Flat 10% Off above value of 200",
+    "address": "1208, Spline Arcade, Flat No 102 1st Floor",
+    "rating": 4.5,
+    "distance": "3.5 km",
+    "type": "Unisex",
+    "fav": false
+  },
+  {
+    "name": "Jiva Spa, Vivanta By Taj",
+    "img": "https://images.unsplash.com/photo-1519864600265-abb23847ef2c?auto=format&fit=crop&w=400&q=80",
+    "offer": "Flat 10% Off above value of 200",
+    "address": "1208, Spline Arcade, Flat No 102 1st Floor",
+    "rating": 4.5,
+    "distance": "3.5 km",
+    "type": "Unisex",
+    "fav": false
+  },
+  {
+    "name": "Golkonda Resorts and Spa",
+    "img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    "offer": "Flat 10% Off above value of 200",
+    "address": "1208, Spline Arcade, Flat No 102 1st Floor",
+    "rating": 4.5,
+    "distance": "3.5 km",
+    "type": "Unisex",
+    "fav": false
+  },
+  {
+    "name": "Banasura Hill Resort",
+    "img": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80",
+    "offer": "Flat 10% Off above value of 200",
+    "address": "1208, Spline Arcade, Flat No 102 1st Floor",
+    "rating": 4.5,
+    "distance": "3.5 km",
+    "type": "Unisex",
+    "fav": true
+  },
+  {
+    "name": "Joy's Spa, Le Pondy",
+    "img": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=400&q=80",
+    "offer": "Flat 10% Off above value of 200",
+    "address": "1208, Spline Arcade, Flat No 102 1st Floor",
+    "rating": 4.5,
+    "distance": "3.5 km",
+    "type": "Unisex",
+    "fav": false
+  },
+  {
+    "name": "Park Hyatt Resort and Spa",
+    "img": "https://images.unsplash.com/photo-1465101178521-c1a9136a3b99?auto=format&fit=crop&w=400&q=80",
+    "offer": "Flat 10% Off above value of 200",
+    "address": "1208, Spline Arcade, Flat No 102 1st Floor",
+    "rating": 4.5,
+    "distance": "3.5 km",
+    "type": "Unisex",
+    "fav": false
+  }
+]
