@@ -7,10 +7,10 @@ import clinic from '../assets/clinic.png';
 
 const Banner = () => (
     <div>
-        
+
         <div className="row row-cols-3 row-cols-lg-3  justify-content-between align-items-center flex-wrap mt-5">
             <div className="col mb-4 d-flex justify-content-start">
-                <div className="card d-flex align-items-center justify-content-around p-4 w-100">
+                <div className="card rounded-5 d-flex align-items-center justify-content-around p-4 w-100">
                      <div className="row g-0 text-center">
                         <div className='col-sm-auto col-md-8'>
                             <img src={salon} alt="Salon" className="img-thumbnail border-0" />
@@ -23,7 +23,7 @@ const Banner = () => (
                 </div>
             </div>
             <div className="col mb-4 d-flex justify-content-center">
-                <div className="card d-flex  align-items-center justify-content-around p-4 w-100">
+                <div className="card rounded-5 d-flex align-items-center justify-content-around p-4 w-100">
                     <div className="row g-0 text-center">
                         <div className='col-sm-auto col-md-8'>
                             <img src={spa1} alt="Spa" className="img-thumbnail border-0 " />
@@ -37,7 +37,7 @@ const Banner = () => (
                 </div>
             </div>
             <div className="col mb-4 d-flex justify-content-end">
-                <div className="card d-flex  align-items-center justify-content-around p-4 w-100">
+                <div className="card rounded-5 d-flex align-items-center justify-content-around p-4 w-100">
                     <div className="row g-0 text-center">
                         <div className='col-sm-auto col-md-8'>
                             <img src={clinic} alt="Clinic" className="img-thumbnail border-0" />
